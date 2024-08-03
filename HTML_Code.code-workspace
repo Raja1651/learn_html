@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "HTML_Code",
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.mouseWheelZoom": true,
+		"files.autoSave": "onWindowChange"
+	}
+}
